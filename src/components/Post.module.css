@@ -92,8 +92,8 @@
 }
 
 .commentForm footer {
-    visibility: visible;
-    max-height: none;
+    visibility: hidden;
+    max-height: 0;
 }
 
 .commentForm:focus-within footer {
