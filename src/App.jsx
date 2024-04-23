@@ -3,7 +3,7 @@ import { Header } from "./components/Header";
 import { Sidebar } from "./components/Sidebar";
 
 import styles from "./App.module.css";
-import "./Global.css";
+import "./global.css";
 
 const posts = [
   {
